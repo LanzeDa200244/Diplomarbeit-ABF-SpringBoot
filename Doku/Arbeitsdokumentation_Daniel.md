@@ -16,17 +16,16 @@
     
     - [Installationstutorial]([PostgreSQL Tutorial: How to download and install PostgreSQL on Windows 10 [EN] - YouTube](https://www.youtube.com/watch?v=SPab5WhO18g))
       
-      - StackBuilder -> zusätzlicher Download unter "Database Driver" von "pgJDBC" benötigt um die notwendige Verbindung zwischen Postgresql und Java herzustellen 
-        
-        ![](C:\_repo\Diplomarbeit-ABF-SpringBoot\img\KommentarPostgreSQL.PNG)
-        
-        (Screenshot von der Kommentarsektion des Youtube SpringBoot Tutoriales)
+      ![](../img/KommentarPostgreSQL.PNG)
+      
+      (Screenshot von der Kommentarsektion des Youtube SpringBoot Tutoriales)
     
     - [Download]([Community DL Page](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads))
   
   - erstellen von eigenem Repository
     
     - [Repo]([GitHub - LanzeDa200244/Diplomarbeit-ABF-SpringBoot](https://github.com/LanzeDa200244/Diplomarbeit-ABF-SpringBoot))
+    - [Git Download]([Git - Downloading Package](https://git-scm.com/download/win))
 
 - SpringBoot Demo Projekt um Grundverständnis aufzubauen
   
